@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Xiao Zhang 👋
 
-<!--
-**ZhangXLaurence/ZhangXLaurence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My public projects explore computer vision, model training, and biosignal classification.
 
-Here are some ideas to get you started:
+[Website](http://xzhang.art/) · [Public repositories](https://github.com/ZhangXLaurence?tab=repositories)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+
+| Project | Area |
+| --- | --- |
+| [MYO-based sEMG Classification](https://github.com/ZhangXLaurence/MYO_based_sEMG_Classification) | Surface electromyography signal classification |
+| [ResNet18-WebFace](https://github.com/ZhangXLaurence/ResNet18-WebFace) | Computer vision and face recognition |
+| [MIMDownTasks](https://github.com/ZhangXLaurence/MIMDownTasks) | Downstream detection and segmentation for masked image modeling |
+
+For project-specific code, setup instructions, and limitations, see the linked repositories.
