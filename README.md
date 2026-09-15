@@ -2,16 +2,18 @@
 
 <br>
 
-**Pixels, movement, noisy data.** I build models that find structure in the mess.
+**See. Act. Learn. Improve.**
 
-I'm interested in how machines see, connect different signals, and learn by interacting with the world.
+I work on vision and multimodal learning, model human behavior, and build systems that learn through interaction.
 
 ```text
 $ cat interests.txt
 
-vision        → learning useful representations
-multimodal    → making different signals work together
-embodied AI   → perception, action, repeat
+vision + multimodal          → useful representations from noisy signals
+human behavior modeling      → how people look, move, and decide
+sensorimotor learning        → perception and action, learned together
+physical / embodied AI       → sensing and control in the real world
+causal self-evolving systems → predicting and learning from self-edits
 
 $ under-the-hood
 optimization · statistics · high-performance computing
