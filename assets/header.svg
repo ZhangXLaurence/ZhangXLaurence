@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Xiao Zhang</title>
+  <desc id="description">A dark terminal-inspired banner. Pixels, signals, intelligence. Scattered observations become connected representations.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="960" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1420"/>
+      <stop offset="1" stop-color="#080C13"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="582" y1="150" x2="872" y2="150" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7493B7" stop-opacity="0.12"/>
+      <stop offset="0.58" stop-color="#56DDD0" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#B5FBE9" stop-opacity="0.95"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" stroke="#516C8C" stroke-opacity="0.09" stroke-width="0.75"/>
+    </pattern>
+  </defs>
+  <rect x="0.5" y="0.5" width="959" height="299" rx="16" fill="url(#surface)" stroke="#263345"/>
+  <rect x="550" y="51" width="370" height="192" fill="url(#grid)"/>
+  <path d="M1 48H959" stroke="#263345"/>
+  <g>
+    <circle cx="25" cy="25" r="4" fill="#E07881"/>
+    <circle cx="41" cy="25" r="4" fill="#DABB7C"/>
+    <circle cx="57" cy="25" r="4" fill="#6BCBA8"/>
+  </g>
+  <g font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace">
+    <text x="81" y="29" fill="#8B9DB3" font-size="12">~/xiao</text>
+    <text x="907" y="29" fill="#6A7C92" font-size="11" text-anchor="end">PERSONAL SPACE</text>
+    <text x="47" y="94" fill="#6ADFCC" font-size="12" letter-spacing="2">ZHANGXLAURENCE</text>
+    <text x="44" y="153" fill="#EDF3FA" font-size="52" font-weight="700" letter-spacing="-2">XIAO ZHANG<tspan fill="#6ADFCC">_</tspan></text>
+    <text x="47" y="190" fill="#AABBD0" font-size="17">pixels. signals. intelligence.</text>
+    <path d="M47 226H82" stroke="#6ADFCC" stroke-width="2"/>
+    <text x="47" y="260" fill="#8194AE" font-size="12" letter-spacing="0.5">OBSERVE <tspan fill="#4C657E">/</tspan> LEARN <tspan fill="#4C657E">/</tspan> BUILD</text>
+    <text x="910" y="260" fill="#8194AE" font-size="12" text-anchor="end">xzhang.art</text>
+  </g>
+  <g stroke="url(#signal)" stroke-width="1.25">
+    <path d="M587 91C650 91 666 115 723 115L788 150L861 150"/>
+    <path d="M600 140C658 140 670 115 723 115L788 82L861 150"/>
+    <path d="M584 183C650 183 668 187 723 187L788 150L861 150"/>
+    <path d="M615 211C666 211 680 187 723 187L788 218L861 150"/>
+    <path d="M621 67C670 67 683 115 723 115V187"/>
+    <path d="M624 165C674 165 680 151 723 151L788 82V218L723 151"/>
+    <path d="M723 115L788 218M723 187L788 82" opacity="0.35"/>
+  </g>
+  <g fill="#60839E">
+    <circle cx="587" cy="91" r="2.5"/>
+    <circle cx="600" cy="140" r="2.5"/>
+    <circle cx="584" cy="183" r="2.5"/>
+    <circle cx="615" cy="211" r="2.5"/>
+    <circle cx="621" cy="67" r="2.5"/>
+    <circle cx="624" cy="165" r="2.5"/>
+    <circle cx="560" cy="125" r="1.5" opacity="0.4"/>
+    <circle cx="574" cy="220" r="1.5" opacity="0.4"/>
+    <circle cx="650" cy="96" r="1.5" opacity="0.4"/>
+  </g>
+  <g fill="#101F2B" stroke="#61D6C7" stroke-width="1.5">
+    <circle cx="723" cy="115" r="4"/>
+    <circle cx="723" cy="151" r="4"/>
+    <circle cx="723" cy="187" r="4"/>
+    <circle cx="788" cy="82" r="5"/>
+    <circle cx="788" cy="150" r="5"/>
+    <circle cx="788" cy="218" r="5"/>
+  </g>
+  <circle cx="861" cy="150" r="19" stroke="#6ADFCC" stroke-opacity="0.15"/>
+  <circle cx="861" cy="150" r="10" fill="#6ADFCC" fill-opacity="0.09" stroke="#6ADFCC" stroke-opacity="0.45"/>
+  <circle cx="861" cy="150" r="3.5" fill="#B5FBE9"/>
+</svg>
