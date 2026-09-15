@@ -1,15 +1,22 @@
-# Hi, I'm Xiao Zhang 👋
+<a href="https://xzhang.art"><img src="assets/header.svg" alt="Xiao Zhang — pixels, signals, intelligence." width="100%"></a>
 
-My public projects explore computer vision, model training, and biosignal classification.
+<br>
 
-[Website](http://xzhang.art/) · [Public repositories](https://github.com/ZhangXLaurence?tab=repositories)
+**Pixels, movement, noisy data.** I build models that find structure in the mess.
 
-## Selected projects
+I'm interested in how machines see, connect different signals, and learn by interacting with the world.
 
-| Project | Area |
-| --- | --- |
-| [MYO-based sEMG Classification](https://github.com/ZhangXLaurence/MYO_based_sEMG_Classification) | Surface electromyography signal classification |
-| [ResNet18-WebFace](https://github.com/ZhangXLaurence/ResNet18-WebFace) | Computer vision and face recognition |
-| [MIMDownTasks](https://github.com/ZhangXLaurence/MIMDownTasks) | Downstream detection and segmentation for masked image modeling |
+```text
+$ cat interests.txt
 
-For project-specific code, setup instructions, and limitations, see the linked repositories.
+vision        → learning useful representations
+multimodal    → making different signals work together
+embodied AI   → perception, action, repeat
+
+$ under-the-hood
+optimization · statistics · high-performance computing
+```
+
+<br>
+
+**[xzhang.art ↗](https://xzhang.art)** &nbsp; / &nbsp; [say hello](mailto:xzhang11@seas.upenn.edu)
